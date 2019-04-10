@@ -2,7 +2,7 @@
 > NPM archive of https://blog.csdn.net/mulumeng981/article/details/77848644 's sourcecode.
 
 ```javascript
-const echartsMulDimension = require('echarts-multidimension-demo');
+const MulDimensionChart = require('echarts-multidimension-demo');
 
 // data sample
 let data = [
@@ -121,7 +121,7 @@ var measure = [{
   }
 ];
 
-let chart = new echartsMuldimension.MulDimensionChart(
+let chart = new MulDimensionChart(
   document.getElementByid('container'),
   data,
   dimension,
