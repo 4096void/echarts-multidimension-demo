@@ -1,6 +1,6 @@
 {
   "name": "echarts-multidimension-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an archieve of https://download.csdn.net/download/mulumeng981/9985030's sourcecode",
   "main": "index.js",
   "scripts": {
