@@ -1,5 +1,5 @@
 ## echarts-multidimension-demo
-> NPM archive of https://blog.csdn.net/mulumeng981/article/details/77848644 's sourcecode.
+> Just an npm archive of https://blog.csdn.net/mulumeng981/article/details/77848644 's sroucecode (⚠️ echarts fixed to 3.7.1 ⚠️)
 
 ```javascript
 const MulDimensionChart = require('echarts-multidimension-demo');
